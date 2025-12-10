@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+.odd {
+    background-color: rgb(255, 150, 150);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#idn2 {
+    background-color: transparent;
+    color: blue;
+    font-size: 36px;
+}
+
+.odd.third{
+    font-size: 24px;
+}
+
+#idn4 {
+    background-color: #a0ff93;
+    font-size: 24px;
+    font-weight: bold;
+}
