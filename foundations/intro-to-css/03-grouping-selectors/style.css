@@ -1,1 +1,16 @@
 /* Add CSS Styling */
+
+.clickopt1,
+.clickopt2 {
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif';
+    font-size: 28px;
+}
+
+.clickopt1 {
+    background-color: black;
+    color: white; 
+}
+
+.clickopt2 {
+    background-color: yellow;
+}
